@@ -1,0 +1,4 @@
+Nombre: Bryan Guerrero
+edad:27
+soy ingeniero en informatica
+trabajo: vendiendo servicio de streming
